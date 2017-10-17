@@ -1,0 +1,5 @@
+# Build settings
+
+markdown: kramdown
+baseurl: /Jekyll-Learnings
+exclude: ['README.md']
